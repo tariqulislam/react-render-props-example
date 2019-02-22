@@ -1,2 +1,1 @@
-# react-render-props-example
-Created with CodeSandbox
+## RenderProps in React JS
